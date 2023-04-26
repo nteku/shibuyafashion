@@ -1,4 +1,25 @@
-a{
+nav {
+    display: flex;
+    justify-content: center;
+    
+     
+}
 
-    text-align: center;
+.navs{
+
+    background-color: #93E9BE;
+    width: 500px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+        /* Adjust the padding as needed */
+    
+}
+
+a{
+    padding: 20px;
+    margin: 10 5px;
+        /* Adjust the margin as needed */
+    
 }

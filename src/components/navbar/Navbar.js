@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Navbar.css';
 class Navbar extends React.Component {
 
     constructor (props){
@@ -8,11 +8,18 @@ class Navbar extends React.Component {
 
     render () {
         return (
-            <nav>
+
+           <div className = "navs">
+
+              <nav>
               <a href="./Homepage.js">{this.props.title}</a>
               <a href="./Homepage.js">{this.props.secondTitle}</a>
               <a href="./Homepage.js">{this.props.thirdTitle}</a>
             </nav>
+
+            
+           </div>
+             
           );
     }
    
