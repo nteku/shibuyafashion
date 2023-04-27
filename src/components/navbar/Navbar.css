@@ -13,13 +13,20 @@ nav {
     margin-left: auto;
     margin-right: auto;
     
-        /* Adjust the padding as needed */
     
 }
 
 a{
     padding: 20px;
     margin: 10 5px;
-        /* Adjust the margin as needed */
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+    
+}
+
+a:hover {
+    background-color: white;
+    color: pink;
     
 }

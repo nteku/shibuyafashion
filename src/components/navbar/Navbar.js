@@ -12,7 +12,7 @@ class Navbar extends React.Component {
            <div className = "navs">
 
               <nav>
-              <a href="./Homepage.js">{this.props.title}</a>
+              <a href="./history">{this.props.title}</a>
               <a href="./Homepage.js">{this.props.secondTitle}</a>
               <a href="./Homepage.js">{this.props.thirdTitle}</a>
             </nav>
