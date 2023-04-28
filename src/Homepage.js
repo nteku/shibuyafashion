@@ -18,7 +18,7 @@ function Homepage(props) {
     <>
       <Header title="Shibuya Fashion by Nathan Teku"></Header>
       <br></br>
-      <Navbar title="History" secondTitle="Famous Shops" thirdTitle="About"></Navbar>
+      <Navbar title="About" secondTitle="Styles" thirdTitle="Social Dynamics" fourthTitle = "Works Cited"></Navbar>
       <br></br>
       <Slideshow imageList={imageList} />
       

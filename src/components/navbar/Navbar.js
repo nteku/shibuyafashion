@@ -15,6 +15,7 @@ class Navbar extends React.Component {
               <a href="./history">{this.props.title}</a>
               <a href="./Homepage.js">{this.props.secondTitle}</a>
               <a href="./Homepage.js">{this.props.thirdTitle}</a>
+              <a href ="">{this.props.fourthTitle}</a>
             </nav>
 
             
