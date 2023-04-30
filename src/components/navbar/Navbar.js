@@ -13,12 +13,12 @@ class Navbar extends React.Component {
 
               <nav>
               <a href="./history">{this.props.title}</a>
-              <a href="./Homepage.js">{this.props.secondTitle}</a>
-              <a href="./Homepage.js">{this.props.thirdTitle}</a>
-              <a href ="">{this.props.fourthTitle}</a>
+              <a href="./styles">{this.props.secondTitle}</a>
+              <a href="./social">{this.props.thirdTitle}</a>
+              <a href ="./workscited">{this.props.fourthTitle}</a>
             </nav>
 
-            
+
            </div>
              
           );

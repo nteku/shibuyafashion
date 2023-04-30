@@ -1,4 +1,11 @@
 
+.page {
+    background: pink;
+    border: 20px solid #93E9BE;
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100%;
+}
  p {
     
     text-align: center;

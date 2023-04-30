@@ -4,7 +4,7 @@ import ImageWithDropdown from "./components/dropdown/Dropdown";
 import SecondHeader from "./components/secondHeader/SecondHeader";
 import './Styles.css';
 
-function SocialDynamics (props){
+function WorksCited (props){
 
 return(
 
@@ -17,4 +17,4 @@ return(
 
 }
 
-export default SocialDynamics;
+export default WorksCited;

@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    padding-right: 600px;
+ 
+}
+.home {
+    background: pink;   
+    border: 10px solid #93E9BE;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 100%;
+}
+ 

@@ -1,6 +1,9 @@
-body,
-html {
+.homepage {
     background: pink;
+    border: 10px solid #93E9BE;
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100%;
 }
 
 
