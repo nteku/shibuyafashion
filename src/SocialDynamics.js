@@ -8,9 +8,9 @@ function SocialDynamics (props){
 
 return(
 
-    <>
+    <div className = "dynamicsPage">
     
-    </>
+    </div>
 );
 
 

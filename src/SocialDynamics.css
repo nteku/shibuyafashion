@@ -1,13 +1,7 @@
-.container {
-    display: grid;
-    padding-right: 600px;
- 
-}
-.home {
+.dynamicsPage{
     background: pink;   
     border: 10px solid #93E9BE;
     box-sizing: border-box;
     height: 350vh;
     width: 100%;
 }
- 

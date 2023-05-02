@@ -1,0 +1,18 @@
+
+.citedpge {
+    background: pink;
+    border: 20px solid #93E9BE;
+    box-sizing: border-box;
+    height: 120vh;
+    width: 100%;
+}
+
+.links{
+    font-size: 20px;
+    color: white;
+    float: right;
+    margin-left: 360px;
+    font-style: italic;
+    font-weight: bold;
+    
+}

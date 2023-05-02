@@ -53,6 +53,7 @@
     flex-direction:row;
     justify-content: center;
         align-items: center;
+   
          
             /* add this line */
 }
@@ -64,5 +65,5 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-left: 320px;
+        margin-left: 380px;
 }
