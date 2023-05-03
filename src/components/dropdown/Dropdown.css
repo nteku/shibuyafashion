@@ -20,16 +20,16 @@
  
 .dropdown-toggle{
     margin-top: 90px;
-    border-color: pink;
-    background-color: pink;
+    border-color: #FC0FC0;
+    background-color: #FC0FC0;
     border-bottom-width: 4px;
-    border: 3px solid #93E9BE;
+    border: 3px solid #0A6522;
     width: 100px;
     height:40px;
     font-size: large;
     margin-left: 60px;
     border-radius: 50px;
-    color: pink;
+    color: #FC0FC0;
     background-color: white;
 }
 

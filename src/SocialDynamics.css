@@ -1,7 +1,16 @@
 .dynamicsPage{
-    background: pink;   
-    border: 10px solid #93E9BE;
+    background: #FC0FC0;   
+    border: 10px solid #0A6522;
     box-sizing: border-box;
-    height: 350vh;
+    height: 170vh;
     width: 100%;
+}
+
+.factors{
+        font-size: 30px;
+            color: white;
+            margin-left: 130px;
+            font-style: italic;
+            font-weight: bold;
+        
 }

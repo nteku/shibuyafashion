@@ -4,10 +4,10 @@
  
 }
 .home {
-    background: pink;   
-    border: 10px solid #93E9BE;
+    background: #FC0FC0;   
+    border: 10px solid #0A6522;
     box-sizing: border-box;
-    height: 350vh;
+    height: 300vh;
     width: 100%;
 }
  
