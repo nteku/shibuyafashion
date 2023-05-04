@@ -21,7 +21,7 @@ const items3 =
 const items4 = 
 ['Originated in the late 1990s, based off the London and New York punk scene.',
  'According to a website called "Trends in Japan", " One of the sparks that ignited the trend was the bestselling manga Nana by Yazawa Ai about two girls named Nana, one of whom is a punk singer who dresses in Vivienne Westwood clothes."', 
- 'This style is still very popylar till this.'];
+ 'This style is still very popular till this day.'];
 
  
 

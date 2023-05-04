@@ -37,7 +37,7 @@ function History (props){
            
                                                 <br></br>
                                                 
-          Fashion magazines played a major role in fashion as well. One fashion magazine that took over was called "FRUiTS magazine",.
+          Fashion magazines played a major role in fashion as well. One fashion magazine that took over was called "FRUiTS magazine".
                                                 <br></br>
             specifically for Harajuku fashion, which was one of the first type of styles that was originated in the Shibuya District.
                                                 <br></br>
