@@ -2,14 +2,14 @@
     background: #FC0FC0;   
     border: 10px solid #0A6522;
     box-sizing: border-box;
-    height: 205vh;
+    height: 150vh;
     width: 100%;
 }
 
 .factors{
-        font-size: 30px;
+        font-size: 20px;
             color: white;
-            margin-left: 130px;
+            margin-left: 90px;
             font-style: italic;
             font-weight: bold;
         

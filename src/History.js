@@ -27,23 +27,26 @@ function History (props){
         <br></br>
 
         <p>
-          Shibuya Street Fashion started to orginate in the 1960s. Western culture, specifically American, was the main influence
+          Shibuya Street Fashion started to orginate in the 1960s. Western culture, particularly American, serving as its main influence.
                                                 <br></br>
-           when it came to this type of street wear. According to an article by Jane Pipkin, "the biker style, vintage style, 
+            According to an article by Jane Pipkin (2020), "the biker style, vintage style, alongside the music and popular 
                                                 <br></br>
-           alongside the music and popular culture all inspired the ways that the Japanese dressed." Later in the 80s, many types
-                                                <br></br> 
-           of styles have been created as it started to reach it's prime while the economic bubble occured. 
+            
+            culture all inspired the ways that the Japanese dressed." (para. 2) There was one specific mall
+           
+                                                <br></br>
+           that pioneered all of these subcultures in Shibuya called Shibuya 109, which is an 8 story mall that contains many
+                                                <br></br>
+           
+           department stores. Later in the 1980s, many different styles emerged as Shibuya Street Fashion reached its prime during the economic bubble. 
            
                                                 <br></br>
                                                 
-          Fashion magazines played a major role in fashion as well. One fashion magazine that took over was called "FRUiTS magazine".
+          Fashion magazines played a major role in the evolution of fashion, with one popular magazine called "FRUiTS" focusing
                                                 <br></br>
-            specifically for Harajuku fashion, which was one of the first type of styles that was originated in the Shibuya District.
+          specifically for Harajuku fashion, which was one of the first styles to originate in the Shibuya District.
                                                 <br></br>
-                    According to an article by Jane Pipkin, "This monthly magazine captured
-                                                <br></br> 
-           the quirky, punky, colourful, fun and creative spirit of Harajuku fashion."                             
+          According to Pipkin (2020), "This monthly magazine captured the quirky, punky, colourful, fun and creative spirit of Harajuku fashion." (para. 4)                           
                                                 
          </p>
 
