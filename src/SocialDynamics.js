@@ -1,6 +1,6 @@
 import React from "react";
 import Header from './components/header/Header';
-import SecondNavbar from "./components/secondnavbar/SecondNavbar";
+import Navbar from './components/navbar/Navbar';
 import Slideshow from "./components/slideshow/SlideShow";
 import './SocialDynamics.css';
 
@@ -26,7 +26,7 @@ return(
 
        <br></br>
 
-       <SecondNavbar title="About" first = "./history" secondTitle="Styles" second = "./styles" thirdTitle = "Works Cited" third = "./workscited"></SecondNavbar>
+       <Navbar title="Homepage" first = "./" secondTitle="About" second = "./history" thirdTitle="Styles"  third = "./styles"fourthTitle = "Works Cited" fourth = "./workscited" ></Navbar>
 
        <br></br>
       <Slideshow imageList={imageList} />

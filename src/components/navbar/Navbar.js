@@ -12,10 +12,10 @@ class Navbar extends React.Component {
            <div className = "navs">
 
               <nav>
-              <a href="./history">{this.props.title}</a>
-              <a href="./styles">{this.props.secondTitle}</a>
-              <a href="./social">{this.props.thirdTitle}</a>
-              <a href ="./workscited">{this.props.fourthTitle}</a>
+              <a href={this.props.first}>{this.props.title}</a>
+              <a href={this.props.second}>{this.props.secondTitle}</a>
+              <a href={this.props.third}>{this.props.thirdTitle}</a>
+              <a href ={this.props.fourth}>{this.props.fourthTitle}</a>
             </nav>
 
 

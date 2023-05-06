@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Header from './components/header/Header';
 import Navbar from './components/navbar/Navbar';
 import Slideshow from "./components/slideshow/SlideShow";
@@ -20,7 +20,7 @@ function Homepage(props) {
     <div className = "homepage">
       <Header title="Shibuya Fashion by Nathan Teku"></Header>
       <br></br>
-      <Navbar title="About" secondTitle="Styles" thirdTitle="Social Dynamics" fourthTitle = "Works Cited"></Navbar>
+      <Navbar title="About" first = "./history" secondTitle="Styles" second = "./styles" thirdTitle="Social Dynamics"  third = "./social"fourthTitle = "Works Cited" fourth = "./workscited" ></Navbar>
       <br></br>
       <Slideshow imageList={imageList} />
       

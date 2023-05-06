@@ -1,6 +1,6 @@
 import React from "react";
 import Header from './components/header/Header';
-import SecondNavbar from "./components/secondnavbar/SecondNavbar";
+import Navbar from "./components/navbar/Navbar";
 import './WorksCited.css';
 
 function WorksCited (props){
@@ -12,7 +12,7 @@ return(
     <Header title = "Works Cited"></Header>
 
     <br></br>
-    <SecondNavbar title="About" first = "./history" secondTitle="Styles" second = "./styles" thirdTitle = "Social Dynamics" third = "./social"></SecondNavbar>
+    <Navbar title="Homepage" first = "./" secondTitle="About" second = "./history" thirdTitle="Styles"  third = "./styles"fourthTitle = "Social Dynamics" fourth = "./social" ></Navbar>
     <br></br>
     <div className = "links">
 

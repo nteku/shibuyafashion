@@ -1,6 +1,6 @@
 import React from "react";
 import Header from './components/header/Header';
-import SecondNavbar from "./components/secondnavbar/SecondNavbar";
+import Navbar from "./components/navbar/Navbar";
 import Slideshow from "./components/slideshow/SlideShow";
 import './History.css';
 
@@ -23,7 +23,7 @@ function History (props){
 
         <br></br>
 
-        <SecondNavbar title="Styles" first = "./styles" secondTitle="Social Dynamics" second = "./social" thirdTitle = "Works Cited" third = "./workscited"></SecondNavbar>
+        <Navbar title="Homepage" first = "./" secondTitle="Styles" second = "./styles" thirdTitle="Social Dynamics"  third = "./social"fourthTitle = "Works Cited" fourth = "./workscited" ></Navbar>
 
         <br></br>
 

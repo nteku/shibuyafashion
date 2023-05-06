@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Header from './components/header/Header';
-import SecondNavbar from "./components/secondnavbar/SecondNavbar";
+import Navbar from "./components/navbar/Navbar";
 import ImageWithDropdown from "./components/dropdown/Dropdown";
 import SecondHeader from "./components/secondHeader/SecondHeader";
 import './Styles.css';
@@ -38,7 +38,7 @@ return(
 
           <br></br>
          
-        <SecondNavbar title="About" first = "./history" secondTitle="Social Dynamics" second = "./social" thirdTitle = "Works Cited" third = "./workscited"></SecondNavbar>
+          <Navbar title="Homepage" first = "./" secondTitle="About" second = "./history" thirdTitle="Social Dynamics"  third = "./social"fourthTitle = "Works Cited" fourth = "./workscited" ></Navbar>
 
         <div className = "container">
 
