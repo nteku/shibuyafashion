@@ -12,7 +12,7 @@ return(
     <Header title = "Works Cited"></Header>
 
     <br></br>
-    <Navbar title="Homepage" first = "./" secondTitle="About" second = "./history" thirdTitle="Styles"  third = "./styles"fourthTitle = "Social Dynamics" fourth = "./social" ></Navbar>
+    <Navbar title="Home" first = "./" secondTitle="About" second = "./history" thirdTitle="Styles"  third = "./styles"fourthTitle = "Social Dynamics" fourth = "./social" ></Navbar>
     <br></br>
     <div className = "links">
 

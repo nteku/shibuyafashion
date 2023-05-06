@@ -38,7 +38,7 @@ return(
 
           <br></br>
          
-          <Navbar title="Homepage" first = "./" secondTitle="About" second = "./history" thirdTitle="Social Dynamics"  third = "./social"fourthTitle = "Works Cited" fourth = "./workscited" ></Navbar>
+          <Navbar title="Home" first = "./" secondTitle="About" second = "./history" thirdTitle="Social Dynamics"  third = "./social"fourthTitle = "Works Cited" fourth = "./workscited" ></Navbar>
 
         <div className = "container">
 

@@ -23,7 +23,7 @@ function History (props){
 
         <br></br>
 
-        <Navbar title="Homepage" first = "./" secondTitle="Styles" second = "./styles" thirdTitle="Social Dynamics"  third = "./social"fourthTitle = "Works Cited" fourth = "./workscited" ></Navbar>
+        <Navbar title="Home" first = "./" secondTitle="Styles" second = "./styles" thirdTitle="Social Dynamics"  third = "./social"fourthTitle = "Works Cited" fourth = "./workscited" ></Navbar>
 
         <br></br>
 
@@ -32,12 +32,12 @@ function History (props){
         <br></br>
 
         <p>
-          Shibuya Street Fashion started to orginate in the 1960s. Western culture, particularly American, serving as its main influence.
+          Street fashion in the Shibuya Ward of Tokyo started to orginate in the 1960s. Western culture,  
                                                 <br></br>
-            According to an article by Jane Pipkin (2020), "the biker style, vintage style, alongside the music and popular 
+         particularly American, serving as its main influence. According to an article by Jane Pipkin (2020), "the biker style, vintage style,   
                                                 <br></br>
             
-            culture all inspired the ways that the Japanese dressed." (para. 2) There was one specific mall
+        alongside the music and popular culture all inspired the ways that the Japanese dressed." (para. 2) There was one specific mall
            
                                                 <br></br>
           that pioneered all of these subcultures in Shibuya called Shibuya 109, which is an 8 story mall that contains many

@@ -26,7 +26,7 @@ return(
 
        <br></br>
 
-       <Navbar title="Homepage" first = "./" secondTitle="About" second = "./history" thirdTitle="Styles"  third = "./styles"fourthTitle = "Works Cited" fourth = "./workscited" ></Navbar>
+       <Navbar title="Home" first = "./" secondTitle="About" second = "./history" thirdTitle="Styles"  third = "./styles"fourthTitle = "Works Cited" fourth = "./workscited" ></Navbar>
 
        <br></br>
       <Slideshow imageList={imageList} />
