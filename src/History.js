@@ -16,7 +16,7 @@ function History (props){
     
     return (
 
-        <div className = "page" >
+        <>
         
         <Header title = "Brief Introduction"></Header>
 
@@ -55,7 +55,7 @@ function History (props){
        
         
         
-        </div>
+        </>
     );
 
 }

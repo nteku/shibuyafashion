@@ -1,7 +1,7 @@
 
 .citedpge {
     background: #FC0FC0;
-    border: 20px solid #0A6522;
+    
     box-sizing: border-box;
     height: 120vh;
     width: 100%;
@@ -11,7 +11,7 @@
     font-size: 20px;
     color: white;
     float: right;
-    margin-left: 360px;
+    margin-left: 340px;
     font-style: italic;
     font-weight: bold;
     

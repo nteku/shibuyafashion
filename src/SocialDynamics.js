@@ -22,7 +22,7 @@ function SocialDynamics (props){
 
 return(
 
-    <div className = "dynamicsPage">
+    <>
       <Header title = "The Social Dynamics"></Header>
 
        <br></br>
@@ -55,7 +55,9 @@ return(
 
       </ul>
       </div>
-    </div>
+
+      
+    </>
 );
 
 

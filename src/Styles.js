@@ -31,7 +31,7 @@ const items4 =
 
 return(
 
-     <div className = "home">
+     <>
                 
         <Header title = "Types of Styles"></Header>
 
@@ -50,8 +50,6 @@ return(
         <br></br>
 
         <SecondHeader title = "Kawaii Style"></SecondHeader>
-        <br></br>
-        <br></br>
         <ImageWithDropdown
         imageUrl="https://itsyourjapan.com/wp-content/uploads/2018/07/Kawaii-Fashion-Get-Kawaii.jpg"
         items={items2}
@@ -78,7 +76,7 @@ return(
 
         </div>
       
-        </div>
+    </>
 );
 
 

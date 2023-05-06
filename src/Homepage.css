@@ -1,6 +1,10 @@
-.homepage {
+body,
+html {
     background: #FC0FC0;
-    border: 10px solid #0A6522;
+    border: 7px solid #0A6522;
+}
+
+.homepage {
     box-sizing: border-box;
     height: 100vh;
     width: 100%;
