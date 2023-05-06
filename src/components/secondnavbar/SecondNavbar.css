@@ -1,0 +1,32 @@
+nav {
+    display: flex;
+    justify-content: center;
+    
+     
+}
+
+.navs{
+
+    background-color: #0A6522;
+    width: 500px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+a{
+    padding: 20px;
+    margin: 10 5px;
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+    
+}
+
+a:hover {
+    background-color: white;
+    color: pink;
+    
+}

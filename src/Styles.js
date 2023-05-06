@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Header from './components/header/Header';
+import SecondNavbar from "./components/secondnavbar/SecondNavbar";
 import ImageWithDropdown from "./components/dropdown/Dropdown";
 import SecondHeader from "./components/secondHeader/SecondHeader";
 import './Styles.css';
@@ -35,8 +36,9 @@ return(
                 
         <Header title = "Types of Styles"></Header>
 
-     
-        <br></br>
+          <br></br>
+         
+        <SecondNavbar title="About" first = "./history" secondTitle="Social Dynamics" second = "./social" thirdTitle = "Works Cited" third = "./workscited"></SecondNavbar>
 
         <div className = "container">
 

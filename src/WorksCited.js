@@ -1,7 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Header from './components/header/Header';
-import ImageWithDropdown from "./components/dropdown/Dropdown";
-import SecondHeader from "./components/secondHeader/SecondHeader";
+import SecondNavbar from "./components/secondnavbar/SecondNavbar";
 import './WorksCited.css';
 
 function WorksCited (props){
@@ -13,6 +12,7 @@ return(
     <Header title = "Works Cited"></Header>
 
     <br></br>
+    <SecondNavbar title="About" first = "./history" secondTitle="Styles" second = "./styles" thirdTitle = "Social Dynamics" third = "./social"></SecondNavbar>
     <br></br>
     <div className = "links">
 

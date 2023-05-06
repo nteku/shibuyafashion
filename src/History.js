@@ -1,5 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Header from './components/header/Header';
+import SecondNavbar from "./components/secondnavbar/SecondNavbar";
 import Slideshow from "./components/slideshow/SlideShow";
 import './History.css';
 
@@ -22,6 +23,10 @@ function History (props){
 
         <br></br>
 
+        <SecondNavbar title="Styles" first = "./styles" secondTitle="Social Dynamics" second = "./social" thirdTitle = "Works Cited" third = "./workscited"></SecondNavbar>
+
+        <br></br>
+
         <Slideshow imageList={imageList} />
 
         <br></br>
@@ -35,18 +40,23 @@ function History (props){
             culture all inspired the ways that the Japanese dressed." (para. 2) There was one specific mall
            
                                                 <br></br>
-           that pioneered all of these subcultures in Shibuya called Shibuya 109, which is an 8 story mall that contains many
+          that pioneered all of these subcultures in Shibuya called Shibuya 109, which is an 8 story mall that contains many
                                                 <br></br>
            
-           department stores. Later in the 1980s, many different styles emerged as Shibuya Street Fashion reached its prime during the economic bubble. 
+           department stores. Later in the 1980s, many different styles emerged as Shibuya Street Fashion reached its prime 
            
                                                 <br></br>
-                                                
-          Fashion magazines played a major role in the evolution of fashion, with one popular magazine called "FRUiTS" focusing
+           during the economic bubble. Fashion magazines played a major role in the evolution of fashion, 
+           
+                                                  <br></br>
+           with one popular magazine called "FRUiTS" focusing  specifically for Harajuku fashion, which was one 
+           
                                                 <br></br>
-          specifically for Harajuku fashion, which was one of the first styles to originate in the Shibuya District.
-                                                <br></br>
-          According to Pipkin (2020), "This monthly magazine captured the quirky, punky, colourful, fun and creative spirit of Harajuku fashion." (para. 4)                           
+           
+           of the first styles to originate in the Shibuya District. According to Pipkin (2020), "This monthly
+           
+                                               <br></br>
+            magazine captured the quirky, punky, colourful, fun and creative spirit of Harajuku fashion." (para. 4)                           
                                                 
          </p>
 

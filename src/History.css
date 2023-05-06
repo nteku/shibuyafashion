@@ -8,11 +8,12 @@
 }
  p {
     
-    text-align: center;
+    text-align:center;
     color:white;
     font-style: italic;
     overflow: hidden;
-    font-size: 17px;
+    font-size: 14px;
+    
     /* Ensures the content is not revealed until the animation */
     border-right: .15em solid white;
     /* The typwriter cursor */

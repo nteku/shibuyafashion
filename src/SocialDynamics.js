@@ -1,8 +1,7 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Header from './components/header/Header';
+import SecondNavbar from "./components/secondnavbar/SecondNavbar";
 import Slideshow from "./components/slideshow/SlideShow";
-import ImageWithDropdown from "./components/dropdown/Dropdown";
-import SecondHeader from "./components/secondHeader/SecondHeader";
 import './SocialDynamics.css';
 
 
@@ -27,6 +26,9 @@ return(
 
        <br></br>
 
+       <SecondNavbar title="About" first = "./history" secondTitle="Styles" second = "./styles" thirdTitle = "Works Cited" third = "./workscited"></SecondNavbar>
+
+       <br></br>
       <Slideshow imageList={imageList} />
 
 
