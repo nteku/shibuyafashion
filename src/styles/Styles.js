@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
-import Header from './components/header/Header';
-import Navbar from "./components/navbar/Navbar";
-import ImageWithDropdown from "./components/dropdown/Dropdown";
-import SecondHeader from "./components/secondHeader/SecondHeader";
+import Header from '../components/header/Header';
+import Navbar from "../components/navbar/Navbar";
+import ImageWithDropdown from "../components/dropdown/Dropdown";
+import SecondHeader from "../components/secondHeader/SecondHeader";
 import './Styles.css';
 
 function Styles (props){

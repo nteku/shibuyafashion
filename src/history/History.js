@@ -1,7 +1,7 @@
 import React from "react";
-import Header from './components/header/Header';
-import Navbar from "./components/navbar/Navbar";
-import Slideshow from "./components/slideshow/SlideShow";
+import Header from '../components/header/Header';
+import Navbar from "../components/navbar/Navbar";
+import Slideshow from "../components/slideshow/SlideShow";
 import './History.css';
 
 
@@ -69,6 +69,6 @@ function History (props){
     );
 
 }
-// Social dyanmics
+ 
 
 export default History;

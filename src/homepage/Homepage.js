@@ -1,7 +1,7 @@
 import React from "react";
-import Header from './components/header/Header';
-import Navbar from './components/navbar/Navbar';
-import Slideshow from "./components/slideshow/SlideShow";
+import Header from '../components/header/Header';
+import Navbar from '../components/navbar/Navbar';
+import Slideshow from "../components/slideshow/SlideShow";
 import './Homepage.css';
 
 const imageList = [
